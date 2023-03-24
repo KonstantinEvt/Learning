@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Probe" />
+        <module name="Ex1134" />
       </profile>
     </annotationProcessing>
   </component>
